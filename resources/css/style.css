@@ -30,3 +30,8 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .footer{
 margin-top: 12px;
 }
+
+.footer-copyright{
+    text-align: right;
+    color: grey;
+}
