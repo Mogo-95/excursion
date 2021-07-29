@@ -15,8 +15,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
     font-size: 14px;
 }
-/*
-img{
 
+.mid--title{
+    font-weight: 300;
+    font-size: 42px;
 }
-*/
+
+.pic--title{
+    font-size: 21px;
+    color: grey;
+}
