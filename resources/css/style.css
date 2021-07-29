@@ -16,12 +16,17 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
 }
 
-.mid--title{
+.body--titles{
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 .pic--title{
     font-size: 21px;
     color: grey;
+}
+
+.footer{
+margin-top: 12px;
 }
